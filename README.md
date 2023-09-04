@@ -1,5 +1,4 @@
-## Develophant
-### Longest River
+## Longest River
 USE THE STONES TO MAKE THE LONGEST RIVER FLOW. CAN YOU PASS ALL LEVELS?
 Long description:
 Are you looking for a new water flow logical puzzle? 
